@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 132.0.6834.160,,,04-02-2025 17:32:46,04-02-2025 17:34:16,1m - 29.109s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 132.0.6834.160,,,04-02-2025 17:32:47,04-02-2025 17:33:06,19.713s,PASSED
+"openBrowser("""")",Chrome 132.0.6834.160,,,04-02-2025 17:32:47,04-02-2025 17:32:53,6.432s,PASSED
+"navigateToUrl(""https://www.frugaltesting.com/"")",Chrome 132.0.6834.160,,,04-02-2025 17:32:53,04-02-2025 17:32:58,5.048s,PASSED
+"click(findTestObject(""Object Repository/Page_Software Testing Company  QA Testing S_47c101/div_Get Started""))",Chrome 132.0.6834.160,,,04-02-2025 17:32:58,04-02-2025 17:32:59,1.059s,PASSED
+"switchToWindowTitle(""Book A Meet"")",Chrome 132.0.6834.160,,,04-02-2025 17:32:59,04-02-2025 17:33:03,3.355s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Product""))",Chrome 132.0.6834.160,,,04-02-2025 17:33:03,04-02-2025 17:33:03,0.540s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Services""))",Chrome 132.0.6834.160,,,04-02-2025 17:33:03,04-02-2025 17:33:04,0.659s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/svg""))",Chrome 132.0.6834.160,,,04-02-2025 17:33:04,04-02-2025 17:33:05,0.501s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Resources""))",Chrome 132.0.6834.160,,,04-02-2025 17:33:05,04-02-2025 17:33:05,0.554s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Company""))",Chrome 132.0.6834.160,,,04-02-2025 17:33:05,04-02-2025 17:33:06,0.583s,PASSED
+closeBrowser(),Chrome 132.0.6834.160,,,04-02-2025 17:33:06,04-02-2025 17:33:06,0.739s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 132.0.6834.160,,,04-02-2025 17:34:00,04-02-2025 17:34:16,15.402s,PASSED
+"openBrowser("""")",Chrome 132.0.6834.160,,,04-02-2025 17:34:00,04-02-2025 17:34:03,2.593s,PASSED
+"navigateToUrl(""https://www.frugaltesting.com/"")",Chrome 132.0.6834.160,,,04-02-2025 17:34:03,04-02-2025 17:34:08,5.635s,PASSED
+"click(findTestObject(""Object Repository/Page_Software Testing Company  QA Testing S_47c101/div_Get Started""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:08,04-02-2025 17:34:10,1.380s,PASSED
+"switchToWindowTitle(""Book A Meet"")",Chrome 132.0.6834.160,,,04-02-2025 17:34:10,04-02-2025 17:34:12,2.540s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Product""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:12,04-02-2025 17:34:13,0.675s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Services""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:13,04-02-2025 17:34:13,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/svg""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:13,04-02-2025 17:34:14,0.650s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Resources""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:14,04-02-2025 17:34:15,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Book A Meet/div_Company""))",Chrome 132.0.6834.160,,,04-02-2025 17:34:15,04-02-2025 17:34:15,0.558s,PASSED
+closeBrowser(),Chrome 132.0.6834.160,,,04-02-2025 17:34:15,04-02-2025 17:34:16,0.403s,PASSED

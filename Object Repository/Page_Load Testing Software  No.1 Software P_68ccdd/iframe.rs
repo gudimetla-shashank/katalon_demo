@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>c6a33fcf-54da-4717-ab1e-984ab7eb097a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Load test your web/ mobile apps with Frugal Testing&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe[title=&quot;Load test your web\/ mobile apps with Frugal Testing&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>4377adf0-f5be-45a2-9d5d-a50d4acb0841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/embed/sZcCyZfYX0I?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0</value>
+      <webElementGuid>a0ab34b5-4e61-4b18-aab3-616f65e3b344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a060ac9a-633b-4c15-9241-62e32e8752d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allow</name>
+      <type>Main</type>
+      <value>autoplay; encrypted-media</value>
+      <webElementGuid>266eab5c-2c2e-4ed4-889d-343b3a041674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Load test your web/ mobile apps with Frugal Testing</value>
+      <webElementGuid>52f9f253-e5e7-4cdf-9fa2-46ab4910df3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js wf-vollkorn-n4-active wf-vollkorn-i4-active wf-vollkorn-n7-active wf-vollkorn-i7-active wf-varela-n4-active wf-oswald-n2-active wf-oswald-n3-active wf-oswald-n4-active wf-oswald-n5-active wf-oswald-n6-active wf-oswald-n7-active wf-ptserif-n4-active wf-ptserif-i4-active wf-ptserif-n7-active wf-ptserif-i7-active wf-ubuntu-n3-active wf-ubuntu-i3-active wf-ubuntu-n4-active wf-ubuntu-i4-active wf-ubuntu-n5-active wf-ubuntu-i5-active wf-ubuntu-n7-active wf-ubuntu-i7-active wf-montserrat-n1-active wf-montserrat-i1-active wf-montserrat-n2-active wf-montserrat-i2-active wf-montserrat-n3-active wf-montserrat-i3-active wf-montserrat-n4-active wf-montserrat-i4-active wf-montserrat-n5-active wf-montserrat-i5-active wf-montserrat-n6-active wf-montserrat-i6-active wf-montserrat-n7-active wf-montserrat-i7-active wf-montserrat-n8-active wf-montserrat-i8-active wf-montserrat-n9-active wf-montserrat-i9-active wf-lato-n1-active wf-lato-i1-active wf-lato-n3-active wf-lato-i3-active wf-lato-n4-active wf-lato-i4-active wf-lato-n7-active wf-lato-i7-active wf-lato-n9-active wf-lato-i9-active wf-poppins-n4-active wf-poppins-n5-active wf-poppins-n6-active wf-poppins-n7-active wf-poppins-n8-active wf-poppins-n9-active wf-active w-mod-ix&quot;]/body[@class=&quot;body-18&quot;]/section[@class=&quot;section-59&quot;]/div[@class=&quot;div-block-213&quot;]/div[@class=&quot;w-embed-youtubevideo youtube-2&quot;]/iframe[1]</value>
+      <webElementGuid>f92789fa-96a0-4836-857d-989b89f887af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>21380656-729c-4991-8a70-36f276a4c81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://www.youtube.com/embed/sZcCyZfYX0I?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0' and @title = 'Load test your web/ mobile apps with Frugal Testing']</value>
+      <webElementGuid>d6493045-7d36-4710-b856-8f975787d62d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
